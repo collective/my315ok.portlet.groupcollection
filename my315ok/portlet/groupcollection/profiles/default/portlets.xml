@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<portlets>
+
+ <!-- Portlet type registrations -->
+
+ <portlet
+   addview="my315ok.portlet.groupcollection.groupcollection"
+   title="groupcollection"
+   description="make three collection to a portlet"
+   />
+
+</portlets>
